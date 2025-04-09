@@ -1,4 +1,6 @@
 # babel-plugin-lodash
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Fbabel-plugin-lodash.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Fbabel-plugin-lodash?ref=badge_shield)
+
 
 A simple transform to cherry-pick Lodash modules so you don’t have to.
 
@@ -102,3 +104,7 @@ preset to preserve ES2015 style imports.
 * Babel < 6 & Node.js < 4 aren’t supported
 * Chain sequences aren’t supported. See [this blog post](https://medium.com/making-internets/why-using-chain-is-a-mistake-9bc1f80d51ba) for alternatives.
 * Modularized [method packages](https://www.npmjs.com/browse/keyword/lodash-modularized) aren’t supported
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Fbabel-plugin-lodash.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Fbabel-plugin-lodash?ref=badge_large)
